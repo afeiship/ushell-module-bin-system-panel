@@ -1,7 +1,7 @@
 # ushell-module-bin-system-panel
 > System panel for bin in project.
 
-## install:
+## installation
 ```shell
-npm i -S afeiship/ushell-module-bin-system-panel --registry=https://registry.npm.taobao.org
+npm i -S @feizheng/ushell-module-bin-system-panel
 ```

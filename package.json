@@ -1,5 +1,5 @@
 {
-  "name": "ushell-module-bin-system-panel",
+  "name": "@feizheng/ushell-module-bin-system-panel",
   "version": "1.0.0",
   "description": "System panel for bin in project.",
   "main": "index.sh",
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/afeiship/ushell-module-bin-system-panel/issues"
   },
-  "homepage": "https://github.com/afeiship/ushell-module-bin-system-panel"
+  "homepage": "https://github.com/afeiship/ushell-module-bin-system-panel",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
 }
