@@ -3,5 +3,5 @@
 
 ## installation
 ```shell
-npm i -S @feizheng/ushell-module-bin-system-panel
+npm i -S @jswork/ushell-module-bin-system-panel
 ```
